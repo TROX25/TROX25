@@ -1,6 +1,6 @@
-Senior .NET Developer specializing in Trading Systems :moneybag: & BIM Automation :building_construction:
+### Senior .NET Developer specializing in Trading Systems :moneybag: & BIM Automation :building_construction:
 
-Building low-latency trading platforms and BIM+ML automation tools with .NET
+> Low-latency trading platforms · BIM+ML automation
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
