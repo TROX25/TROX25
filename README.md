@@ -1,5 +1,7 @@
 Senior .NET Developer specializing in Trading Systems :moneybag: & BIM Automation :building_construction:
 
+Building low-latency trading platforms and BIM+ML automation tools with .NET
+
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
