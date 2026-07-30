@@ -11,6 +11,4 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TROX25&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=TROX25&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TROX25&layout=compact&theme=dark)
